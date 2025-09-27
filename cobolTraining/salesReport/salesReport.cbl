@@ -107,7 +107,7 @@
            05 FILLER                  PIC X(20) VALUE
                  "      LAST YTD      ".
            05 FILLER                  PIC X(22) VALUE
-                 " AMOUNT      AMOUNT  ".
+                 " AMOUNT      PERCENT  ".
            05 FILLER                  PIC X(51) VALUE SPACE.
 
 

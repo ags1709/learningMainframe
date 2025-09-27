@@ -1,8 +1,8 @@
 DATE:  09/27/2025           YEAR-TO-DATE SALES REPORT                 PAGE:    1                                                    
-TIME:  18:26                                                          RPT1000                                                       
+TIME:  18:30                                                          RPT1000                                                       
 
 CUST                           SALES         SALES          CHANGE      CHANGE                                                      
-NUM       CUSTOMER NAME        THIS YTD      LAST YTD       AMOUNT      AMOUNT                                                      
+NUM       CUSTOMER NAME        THIS YTD      LAST YTD       AMOUNT      PERCENT                                                     
 12345  CAREER TRAINING CTR    12,345.67     22,222.22      9,876.55-     44.4-                                                      
 22222  HOMELITE TEXTRON CO    34,545.00          0.00     34,545.00     999.9                                                       
 55555  PILOT LIFE INS. CO.    10,000.00      1,000.00      9,000.00     900.0                                                       
